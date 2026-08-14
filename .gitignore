@@ -1,0 +1,27 @@
+# Quantum ESPRESSO generated data
+*.save/
+*.wfc*
+*.mix*
+*.igk*
+*.restart/
+*.recover/
+
+# Scratch/output directories
+outdir/
+tmp/
+scratch/
+
+# Pseudopotential files
+*.UPF
+*.upf
+
+# Python
+__pycache__/
+*.pyc
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store

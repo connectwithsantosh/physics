@@ -1,0 +1,13 @@
+&SYSTEM
+    ibrav = 2,
+    celldm(1) = 6.0,
+    nat = 1,
+    ntyp = 1,
+    ...
+/
+
+ATOMIC_SPECIES
+Na  22.9898  Na.pbe-spn-kjpaw_psl.1.0.0.UPF
+
+ATOMIC_POSITIONS crystal
+Na  0.000000  0.000000  0.000000
