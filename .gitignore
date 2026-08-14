@@ -11,10 +11,6 @@ outdir/
 tmp/
 scratch/
 
-# Pseudopotential files
-*.UPF
-*.upf
-
 # Python
 __pycache__/
 *.pyc
