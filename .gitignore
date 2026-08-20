@@ -21,3 +21,10 @@ __pycache__/
 
 # OS
 .DS_Store
+
+# Python virtual environments
+venv/
+.venv/
+
+# Manim generated files
+media/
